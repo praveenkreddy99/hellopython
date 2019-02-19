@@ -1,0 +1,3 @@
+print("begin")
+a="hello woorld"
+print(a)
