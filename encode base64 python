@@ -1,0 +1,4 @@
+import base64
+a="https://www.linkedin.com/in/praveenkreddy99"
+data=base64.b64encode(a)
+print(data)
